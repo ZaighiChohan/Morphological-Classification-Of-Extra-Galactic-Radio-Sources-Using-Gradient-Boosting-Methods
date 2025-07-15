@@ -7,7 +7,6 @@ Project based work - analysis.
 **Author:** Zaighum Jawad Aslam  
 **Reg. No:** D03000118  
 **Project Type:** Data Mining & Machine Learning  
-**Score:** 28/30  
 
 ---
 
